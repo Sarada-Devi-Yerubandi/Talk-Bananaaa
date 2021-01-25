@@ -1,2 +1,2 @@
 # Talk-Bananaaa
-### This is CLI app which translates english language to minions language using API.
+### This is a CLI app which translates english language to minions language using API.
